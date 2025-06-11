@@ -38,3 +38,4 @@ Este projeto organiza as rádios de Portugal por distrito, fornecendo informaç�
 
 
 A percentagem de conclusão representa a quantidade de rádios listadas para o distrito em relação ao total previsto.
+
