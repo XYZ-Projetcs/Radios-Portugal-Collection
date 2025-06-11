@@ -13,14 +13,28 @@ Este projeto organiza as rádios de Portugal por distrito, fornecendo informaç�
 
 ## Distritos e Percentagem Concluída
 
-| Distrito        | Percentagem Concluída |
+| Regiões         | Percentagem Concluída |
 |-----------------|-----------------------|
-| Lisboa          | 70%                   |
-| Porto           | 60%                   |
-| Coimbra         | 50%                   |
-| Faro            | 40%                   |
-| Madeira         | 80%                   |
-| Açores          | 75%                   |
-| ...             | ...                   |
+| Aveiro          | 5,36%                 |
+| Açores          | 0%                    |
+| Beja            | 0%                    |
+| Braga           | 0%                    |
+| Bragança        | 0%                    |
+| Castelo Branco  | 0%                    |
+| Coimbra         | 0%                    |
+| Faro            | 0%                    |
+| Guarda          | 0%                    |
+| Leiria          | 0%                    |
+| Lisboa          | 0%                    |
+| Madeira         | 0%                    |
+| Portalegre      | 0%                    |
+| Porto           | 0%                    |
+| Santarém        | 0%                    |
+| Setúbal         | 0%                    |
+| Viana do Castelo| 0%                    |
+| Vila Real       | 0%                    |
+| Viseu           | 0%                    |
+| Évora           | 0%                    |
+
 
 A percentagem de conclusão representa a quantidade de rádios listadas para o distrito em relação ao total previsto.
