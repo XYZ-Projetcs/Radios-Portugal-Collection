@@ -1,0 +1,19 @@
+{
+  "aveiro": [
+    {
+      "nome": "Hiper FM",
+      "link": "https://centova.radio.com.pt/proxy/500?mp=/stream",
+      "logo": "https://cdn.onlineradiobox.com/img/l/0/19610.v6.png"
+    },
+    {
+      "nome": "TOP FM",
+      "link": "http://213.136.92.8:8038/;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/1/75421.v3.png"
+    },
+    {
+      "nome": "Radio Paixao FM",
+      "link": "https://stream2.soundflux.eu/8146/stream",
+      "logo": "https://cdn.onlineradiobox.com/img/l/1/86551.v12.png"
+    }
+  ]
+}
