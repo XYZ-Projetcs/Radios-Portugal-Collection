@@ -1,0 +1,105 @@
+{
+  "açores": [
+    {
+      "nome": "RDP Antena 1 Açores",
+      "link": "http://radiocast.rtp.pt/antena1acores80a.mp3",
+      "logo": "https://cdn.onlineradiobox.com/img/l/6/71976.v4.png"
+    },
+    {
+      "nome": "R80",
+      "link": "https://cast1.lunabroadcasting.net/listen/r80/radio.mp3",
+      "logo": "https://cdn.onlineradiobox.com/img/l/1/121041.v3.png"
+      },
+        {
+      "nome": "Web Furacao Dos Acores",
+      "link": "https://ssl.pnstream.com:7214/stream",
+      "logo": "https://cdn.onlineradiobox.com/img/l/4/93454.v14.png"
+    },
+    {
+      "nome": "Rádio Horizonte Açores Terceira",
+      "link": "https://horizonte-radiohorizonte.radioca.st/stream",
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/18725.v4.png"
+      },
+        {
+      "nome": "Radio Lagoa",
+      "link": "",
+      "logo": "https://cdn.onlineradiobox.com/img/l/1/18731.v5.png"
+    },
+    {
+      "nome": "Radio Nova Cidade",
+      "link": "http://centova.radio.com.pt:9488/stream/;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/19055.v4.png"
+      },
+        {
+      "nome": "Canal FM 100.5",
+      "link": "http://centova.radios.pt:9466/;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/0/20040.v4.png"
+    },
+    {
+      "nome": "Radio 105 FM",
+      "link": "http://195.8.58.141:34179/;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/20045.v1.png"
+      },
+        {
+      "nome": "Top FM",
+      "link": "http://5.9.71.122:8420/;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/7/20047.v9.png"
+    },
+    {
+      "nome": "Rádio Clube Asas do Atlântico",
+      "link": "https://centova.radio.com.pt/proxy/538?mp=/stream",
+      "logo": "https://cdn.onlineradiobox.com/img/l/0/20350.v4.png"
+      },
+        {
+      "nome": "Radio Atlantida",
+      "link": "https://cast1.lunabroadcasting.net/listen/atlantida/radio.mp3",
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/19965.v7.png"
+    },
+    {
+      "nome": "Radio-Atlantico",
+      "link": "https://stream.zeno.fm/bf6kzg37wp8uv",
+      "logo": "https://cdn.onlineradiobox.com/img/l/8/20008.v5.png"
+      },
+        {
+      "nome": "Radio Faial Açores",
+      "link": "https://rs2.ptservidor.com/proxy/ruimanue/live",
+      "logo": "https://cdn.onlineradiobox.com/img/l/8/20048.v6.png"
+    },
+    {
+      "nome": "Rádio Praiense",
+      "link": "https://stream.zeno.fm/yppvhrnx4w3vv",
+      "logo": "https://cdn.onlineradiobox.com/img/l/2/125942.v7.png"
+      },
+        {
+      "nome": "Açores 9 Rádio",
+      "link": "https://stm4.voxhd.com.br:7300/stream?ver=553030",
+      "logo": "https://cdn.onlineradiobox.com/img/l/0/135820.v2.png"
+    },
+    {
+      "nome": "Antenna Web Azores",
+      "link": "https://tinyurl.com/AntennaWebAzores",
+      "logo": "https://cdn.onlineradiobox.com/img/l/0/135820.v2.png"
+      },
+        {
+      "nome": "Radio Lajes",
+      "link": "https://radios.justweb.pt:7027/;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/2/20042.v5.png"
+    },
+    {
+      "nome": "Rádio Azores High",
+      "link": "https://sp0.redeaudio.com/8062/stream",
+      "logo": "https://cdn.onlineradiobox.com/img/l/9/144309.v2.png"
+      },
+        {
+      "nome": "Rádio Top Ilha3",
+      "link": "https://stream.zeno.fm/ttqjndkwtrsuv",
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/138825.v5.png"
+    },
+    {
+      "nome": "Rádio OCA",
+      "link": "https://stream.zeno.fm/qkcp16tsh7muv",
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/144295.v9.png"
+      },
+    }
+  ]
+}
