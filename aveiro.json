@@ -1,5 +1,5 @@
 {
-  "aveiro_56:23": [
+  "aveiro": [
     {
       "nome": "Hiper FM",
       "link": "https://centova.radio.com.pt/proxy/500?mp=/stream",
@@ -115,169 +115,169 @@
       "logo": "https://cdn.onlineradiobox.com/img/l/0/20200.v3.png"
     },
         {
-      "nome": "Rádio Love Hits",
-      "link": "",
-      "logo": ""
++      "nome": "Rádio Love Hits",
+      "link": "http://radiolove.myftp.biz:8000/radiolove",
+      "logo": "https://cdn.onlineradiobox.com/img/l/7/120117.v4.png"
     },
         {
       "nome": "RADIO FAUSTEX DANCE",
-      "link": "",
-      "logo": ""
+      "link": "https://fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&port=10307&type=s1",
+      "logo": "https://cdn.onlineradiobox.com/img/l/0/104920.v4.png"
     },
         {
       "nome": "Radio Clube da Feira",
-      "link": "",
-      "logo": ""
+      "link": "http://centova.radio.com.pt:9544/;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/19955.v3.png"
     },
         {
       "nome": "Rádio AVFM",
-      "link": "",
-      "logo": ""
+      "link": "https://uk2.streamingpulse.com/ssl/radioavfm",
+      "logo": "https://cdn.onlineradiobox.com/img/l/9/127889.v1.png"
     },
         {
       "nome": "Radio Viva Portugal",
-      "link": "",
-      "logo": ""
+      "link": "https://sp0.redeaudio.com/9920/stream",
+      "logo": "https://cdn.onlineradiobox.com/img/l/2/101292.v1.png"
     },
         {
       "nome": "Radio Faustex Party",
-      "link": "",
-      "logo": ""
+      "link": "http://freeuk30.listen2myradio.com:11141/;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/80775.v17.png"
     },
         {
       "nome": "Radio Faustex Party 2",
-      "link": "",
-      "logo": ""
+      "link": "https://stream.zeno.fm/7pv1p1hucphvv",
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/80775.v17.png"
     },
         {
       "nome": "RADIO FAUSTEX 2",
-      "link": "",
-      "logo": ""
+      "link": "https://uk10freenew.listen2myradio.com/live.mp3?typeportmount=s1_26824_stream_313926803;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/4/104914.v6.png"
     },
         {
       "nome": "Radio Faustex Oldies 2",
-      "link": "",
-      "logo": ""
+      "link": "https://uk13freenew.listen2myradio.com/live.mp3?typeportmount=s1_35332_stream_908342053;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/4/84594.v12.png"
     },
         {
       "nome": "RADIO FAUSTEX PLP",
-      "link": "",
-      "logo": ""
+      "link": "https://cdn.onlineradiobox.com/img/l/9/104919.v2.png",
+      "logo": "https://fps6.listen2myradio.com:2199/listen.php?ip=78.129.237.53&port=8864&type=s1"
     },
         {
       "nome": "Pintassilgo V",
-      "link": "",
-      "logo": ""
+      "link": "https://stream.zeno.fm/cqteqfqrlmjtv",
+      "logo": "https://cdn.onlineradiobox.com/img/l/0/139680.v6.png"
     },
         {
       "nome": "Informedia Radio 106.3 - in4media",
-      "link": "",
-      "logo": ""
+      "link": "http://server.zibiz.net:8000/stream1;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/1/127841.v2.png"
     },
         {
       "nome": "Rádio Península",
-      "link": "",
-      "logo": ""
+      "link": "https://a7.asurahosting.com:7030/radio.mp3",
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/136335.v1.png"
     },
         {
       "nome": "Rádio Lua",
-      "link": "",
-      "logo": ""
+      "link": "https://servidor13.brlogic.com:7084/live",
+      "logo": "https://cdn.onlineradiobox.com/img/l/9/145489.v1.png"
     },
         {
       "nome": "Radio Liberty Square",
-      "link": "",
-      "logo": ""
+      "link": "https://cdn.onlineradiobox.com/img/l/8/115168.v2.png",
+      "logo": "https://stream.zeno.fm/z51d7nptwrhvv"
     },
         {
       "nome": "Periquito FM",
-      "link": "",
-      "logo": ""
+      "link": "https://stream.zeno.fm/e50zraabyoxuv",
+      "logo": "https://cdn.onlineradiobox.com/img/l/3/139683.v2.png"
     },
         {
       "nome": "Rádio Voz da Ria",
-      "link": "",
-      "logo": ""
+      "link": "http://centova.radios.pt:8541/stream",
+      "logo": "https://cdn.onlineradiobox.com/img/l/1/19781.v4.png"
     },
         {
       "nome": "Radio Paivense",
-      "link": "",
-      "logo": ""
+      "link": "http://paivense.no-ip.info:8080/;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/0/20250.v4.png"
     },
         {
       "nome": "Rádio Ovos Moles",
-      "link": "",
-      "logo": ""
+      "link": "https://sp0.redeaudio.com/9330/;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/3/37563.v7.png"
     },
         {
       "nome": "Radioamoresproibidos",
-      "link": "",
-      "logo": ""
+      "link": "https://stm2.maystream.top:7040/;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/4/143814.v1.png"
     },
         {
       "nome": "Rádio Soberania",
-      "link": "",
-      "logo": ""
+      "link": "https://nl.digitalrm.pt:8034/stream",
+      "logo": "https://cdn.onlineradiobox.com/img/l/4/92174.v7.png"
     },
         {
       "nome": "Rádio XL",
-      "link": "",
-      "logo": ""
+      "link": "https://stream.rcast.net/69102",
+      "logo": "https://cdn.onlineradiobox.com/img/l/3/119773.v1.png"
     },
         {
       "nome": "Radio Faustex Portuguese Music 2",
-      "link": "",
-      "logo": ""
+      "link": "https://uk2freenew.listen2myradio.com/live.mp3?typeportmount=s1_35528_stream_784242911;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/3/84593.v11.png"
     },
         {
       "nome": "RADIO FAUSTEX TOP",
-      "link": "",
-      "logo": ""
+      "link": "https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=8540&type=s1",
+      "logo": "https://cdn.onlineradiobox.com/img/l/8/104918.v2.png"
     },
         {
       "nome": "RADIO FAUSTEX 4",
-      "link": "",
-      "logo": ""
+      "link": "https://freeuk24.listen2myradio.com/live.mp3?typeportmount=s1_8507_stream_752707725;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/6/104916.v3.png"
     },
         {
       "nome": "RADIO FAUSTEX 3",
-      "link": "",
-      "logo": ""
+      "link": "https://freeuk21.listen2myradio.com/live.mp3?typeportmount=s1_5717_stream_155405390;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/104915.v4.png"
     },
         {
       "nome": "Radio FestEventos",
-      "link": "",
-      "logo": ""
+      "link": "http://webradio.festeventos.pt:9998/stream",
+      "logo": "https://cdn.onlineradiobox.com/img/l/3/95903.v3.png"
     },
         {
       "nome": "RADIO FAUSTEX SOFT",
-      "link": "",
-      "logo": ""
+      "link": "https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=8939&type=s1",
+      "logo": "https://cdn.onlineradiobox.com/img/l/3/104923.v2.png"
     },
         {
       "nome": "RADIO FAUSTEX MEMORIES",
-      "link": "",
-      "logo": ""
+      "link": "https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=8025&type=s1",
+      "logo": "https://cdn.onlineradiobox.com/img/l/1/104921.v3.png"
     },
         {
       "nome": "RADIO NOVA / FAUSTEX",
-      "link": "",
-      "logo": ""
+      "link": "https://freeuk18.listen2myradio.com/live.mp3?typeportmount=s1_7341_stream_589404479;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/7/104917.v7.png"
     },
         {
       "nome": "Rádio Vila Nova",
-      "link": "",
-      "logo": ""
+      "link": "https://spaudio.servers.pt/9966/stream",
+      "logo": "https://cdn.onlineradiobox.com/img/l/0/127450.v1.png"
     },
         {
       "nome": "RADIO FAUSTEX",
-      "link": "",
-      "logo": ""
+      "link": "http://freeuk27.listen2myradio.com:37243/;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/3/104913.v14.png"
     },
         {
       "nome": "Radio_Emigrantes_e_Amigos",
-      "link": "",
-      "logo": ""
+      "link": "https://stm1.serviceradios.com:8204/stream",
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/118635.v4.png"
     },
     }
   ]
