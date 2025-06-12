@@ -16,7 +16,7 @@ Este projeto organiza as rádios de Portugal por distrito, fornecendo informaç�
 | Regiões         | Percentagem Concluída |
 |-----------------|-----------------------|
 | Aveiro          | 100,00%               |
-| Açores          | 0%                    |
+| Açores          | 100,00%               |
 | Beja            | 0%                    |
 | Braga           | 0%                    |
 | Bragança        | 0%                    |
