@@ -1,1 +1,63 @@
-
+{
+  "beja": [
+    {
+      "nome": "HITS CUBA",
+      "link": "https://azura.servercast.com.br/listen/hits_cuba/radio.mp3",
+      "logo": "https://cdn.onlineradiobox.com/img/l/1/105151.v33.png"
+    },
+    {
+      "nome": "Radio Vidigueira",
+      "link": "http://centova.radios.pt:8567/stream/;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/19075.v5.png"
+      },
+    {
+      "nome": "Radio Voz da Planicie",
+      "link": "https://centova.radio.com.pt/proxy/441?mp=/stream",
+      "logo": "https://cdn.onlineradiobox.com/img/l/8/19158.v4.png"
+      },
+    {
+      "nome": "Radio H",
+      "link": "https://sp0.redeaudio.com/8034/stream;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/8/74738.v6.png"
+      },
+    {
+      "nome": "Radio Pax",
+      "link": "http://centova.radio.com.pt:9484/;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/2/20072.v6.png"
+      },
+    {
+      "nome": "Rádio Talego",
+      "link": "https://stream.zeno.fm/qy7zrpumq2zuv",
+      "logo": "https://cdn.onlineradiobox.com/img/l/1/116461.v3.png"
+      },
+    {
+      "nome": "Rádio Planície",
+      "link": "http://109.71.41.6:8026/stream/;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/0/19070.v4.png"
+      },
+    {
+      "nome": "Radio Castrense",
+      "link": "http://centova.radio.com.pt:8431/stream/;",
+      "logo": "https://cdn.onlineradiobox.com/img/l/3/19073.v4.png"
+      },
+    {
+      "nome": "TLA Radio",
+      "link": "https://centova.radio.com.pt/proxy/545?mp=/stream",
+      "logo": "https://cdn.onlineradiobox.com/img/l/9/19069.v3.png"
+      },
+    {
+      "nome": "Radio Musicalidades",
+      "link": "https://stream.zeno.fm/g17h3c1qxk8uv",
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/116495.v4.png"
+      },
+    {
+      "nome": "Antena Sul",
+      "link": "https://nl.digitalrm.pt:8014/stream",
+      "logo": "https://cdn.onlineradiobox.com/img/l/8/90728.v5.png"
+      },
+    {
+      "nome": "Antenna Web Beja",
+      "link": "https://tinyurl.com/AntennaWebBeja",
+      "logo": "https://cdn.onlineradiobox.com/img/l/1/135821.v3.png"
+      },
+    
