@@ -18,7 +18,7 @@ Este projeto organiza as rádios de Portugal por distrito, fornecendo informaç�
 | Aveiro          | 100,00%               |
 | Açores          | 100,00%               |
 | Beja            | 100,00%               |
-| Braga           | 0%                    |
+| Braga           | Loading...            |
 | Bragança        | 0%                    |
 | Castelo Branco  | 0%                    |
 | Coimbra         | 0%                    |
